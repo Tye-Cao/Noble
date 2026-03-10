@@ -58,21 +58,23 @@
 
 <div class="container">
 
-# 网页更改需求
+# Website Modification Requirements
 
-## 1. 添加
-* House & Land 界面需要添加地图插件 
-  1. 整体悉尼地图标注所有土地位置
+## 1. Additions
+* House & Land Interface: Integrate a map plugin
+
+  1. Mark all land locations on a map of Greater Sydney.
   <img src="whole map.png" width="600">
-  2. 单个土地页面内部位置标注
+  2. Include location marking on individual land property pages.
   <img src="single map.png" width="600">
-* Chat 界面需要定向自动回复
-  1. 可以定义简单方向引导客户勾选
-  2. 引用外部AI平台导向
-  3. 自建公司检索 AI agent
+* Chat Interface: Implement targeted auto-replies
+  1. Define simple navigation paths for customer selection.
+  2. Integrate/Redirect to external AI platforms.
+  3. Develop an in-house AI Search Agent for company-specific information.
   <img src="chat.png" width="600">
-## 2. 更改
-* 下拉菜单时最上方导览隐藏（移动端不需要更改）
+
+## 2. Modifications
+* Hide the top navigation bar when scrolling (No changes required for mobile).
 
     Noble:
 <img src="noble web 1.png" width="300">
@@ -82,20 +84,20 @@
 <img src="mcdonald.png" width="300">
 <img src="mcdonald2.png" width="300">
 
-* 输入误处：
+* Input errors：
   1. Fisrt Floor Living -> First Floor Living
 
     <img src="chifley 413.png" width="400">
-  2. 官网中文
+
+  2. Presence of Chinese text on the official website.
 
     <img src="image.png" width="400">
 
-## 3. 其他建筑公司官网宣传优势
-
+## 3. Promotional Strengths of Competitors' Websites
 1. eden brae homes
   
     Colour compare:
-    通过互动方式更直观展示不同需求展示
+    Utilizing interactive features to present various requirements more intuitively.
 
 
     <img src="eden brae homes.png" width="1000">
@@ -103,20 +105,20 @@
 2. creationhomes:
 
     Track Record:
-    通过展示过往项目经历提高客户认可度
+    Enhance customer credibility by showcasing past project track records.
     
     <img src="creationhomes.png" width="1000">
 
 3. metricon:
 
-    Studio M (实体优势):
-    高度满足个性化客户需求，提供studio M展厅允许客户近距离自主选择
+    Studio M :
+    Highly cater to personalized customer needs by providing the Studio M showroom for hands-on, autonomous selections.
 
     <img src="metricon.png" width="1000">
 
 
     Image Gallery:
-    线上展示多种内部外部的效果图，满足客户需求
+    Display a variety of interior and exterior renderings online to meet customer preferences.
 
 
     <img src="metricon2.png" width="1000">
