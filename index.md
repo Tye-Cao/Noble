@@ -4,7 +4,7 @@
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    margin: 0;
+    margin: 30px 0px;
     padding: 0;
   }
 
@@ -74,11 +74,11 @@
 ## 2. 更改
 * 下拉菜单时最上方导览隐藏（移动端不需要更改）
 
-Noble:
+    Noble:
 <img src="noble web 1.png" width="300">
 <img src="noble web 2.png" width="300">
 
-Mcdonald jones:
+    Mcdonald jones:
 <img src="mcdonald.png" width="300">
 <img src="mcdonald2.png" width="300">
 
